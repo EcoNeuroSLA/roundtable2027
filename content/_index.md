@@ -10,7 +10,7 @@ title = "home"
     </h4>
     <div class = "psu_image" style="padding-right:50px"> 
       <div>
-        {{< figure src="psu.png" width="1200" height="500" >}}
+        {{< figure src="psu.png" width="1200" height="425" >}}
       </div>
     </div>
   </div>
