@@ -210,3 +210,15 @@ $y-medium: 1.0rem;
 em, strong {
     font-size: inherit;
 }
+
+@media (max-width: 600px) {
+    body > .container.mt-5 .navbar-nav {
+        justify-content: center !important;
+        gap: 0.5rem;
+    }
+}
+
+
+#content p {
+    margin-bottom: 1rem;
+}

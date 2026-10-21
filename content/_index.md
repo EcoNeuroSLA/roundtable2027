@@ -15,7 +15,7 @@ title = "home"
     </div>
   </div>
   <div>
-    <h3 class="campusMap_link" style="padding-bottom:20px; padding-right:40px"><a href="https://map.psu.edu/?id=1134#!ct/25403,26748,26749,26750,27255?s/">Campus Map</a></h3>
+    <h3 class="campusMap_link" style="padding-bottom:20px; padding-right:20px"><a href="https://map.psu.edu/?id=1134#!ct/25403,26748,26749,26750,27255?s/">Campus Map</a></h3>
   </div>
 </div>
 
