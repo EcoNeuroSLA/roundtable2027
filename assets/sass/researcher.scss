@@ -222,3 +222,38 @@ em, strong {
 #content p {
     margin-bottom: 1rem;
 }
+
+.site-menu {
+    width: 100%;
+    justify-content: space-between;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.site-title {
+    display: block;
+    white-space: normal;
+    font-size: 1.7rem;
+    font-weight: bold;
+}
+.site-subtitle,
+.site-subtitle * {
+    font-size: 20px !important;
+    color: #fff;
+}
+
+@media (max-width: 600px) {
+    .site-menu {
+        justify-content: center;
+        gap: 0.3rem 1rem;
+    }
+    .site-title {
+        font-size: 1.2rem;
+    }
+    .site-subtitle,
+    .site-subtitle * {
+        font-size: 15px !important;
+    }
+    .nav-link {
+        font-size: 14px !important;
+    }
+}
