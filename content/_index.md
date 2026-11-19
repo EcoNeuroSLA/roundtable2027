@@ -10,7 +10,7 @@ title = "home"
     </h4>
     <div class = "psu_image" style="padding-right:50px"> 
       <div>
-        {{< figure src="psu.png" width="1200" height="425" >}}
+        {{< figure src="psu.png">}}
       </div>
     </div>
   </div>
@@ -28,7 +28,7 @@ title = "home"
     <ul>
       <li>Dr. Esti Blanco-Elorrieta (New York University)</li>
       <li>Dr. Jonathan Brennan (University of Michigan)</li>
-      <li>Dr. Suzanne Dikker (New York University; Ghent University; online talk)</li>
+      <li>Dr. Suzanne Dikker (New York University; Ghent University)</li>
       <li>Dr. Hyeonjeong Jeong (Tohoku University)</li>
       <li>Dr. Edith Kaan (University of Florida)</li>
       <li>Dr. Manuel Pulido (Pennsylvania State University)</li>

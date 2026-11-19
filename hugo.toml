@@ -1,5 +1,5 @@
 title = "Ecological validity in the cognitive neuroscience of language learning and processing: Promising approaches and future directions (EcoNeuroSLA)"
-baseURL = "https://roundtable2027.github.io/roundtable2027/" #CHANGE URL
+baseURL = "https://EcoNeuroSLA.github.io/roundtable2027/" #CHANGE URL
 theme = "researcher"
 enableEmoji = true
 
@@ -14,10 +14,10 @@ googleAnalytics = ""  # add your tracking id
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
     text = "made with © SOMEONE"
-    url = "https://roundtable2027.github.io/roundtable2027/" #CHANGE URL
+    url = "https://EcoNeuroSLA.github.io/roundtable2027/" #CHANGE URL
   [params.style]
     fontFamily = "verdana"
-    pageWidth = "1100px"
+    pageWidth = "1400px"
     avatarSize = "185px"
     colorBlack = "white"
     colorRed = "#afdcff"
@@ -51,7 +51,7 @@ googleAnalytics = ""  # add your tracking id
     url = "/program"
     weight = 5
   [[menu.main]]
-    name = "TRAVEL"
+    name = "TRAVEL & LODGING"
     url = "/travel"
     weight = 6
 
