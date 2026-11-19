@@ -56,7 +56,7 @@ title = "Keynote Speakers"
         <p>
         TITLE OF TALK: TBA
         </p>
-    <h4><a href="https://presence-xr.eu/team/ana-zappa/">Dr. Ana Zappa (Early Career Keynote; University of Barcelona)</a></h4><br>
+    <h4><a href="https://cv.hal.science/ana-zappa">Dr. Ana Zappa (Early Career Keynote; University of Barcelona)</a></h4><br>
         <div class = "keynoteImages">
             {{< figure src="../keynoteimages/zappa.jpeg" width="220" height="180" >}}
         </div>
