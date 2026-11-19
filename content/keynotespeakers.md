@@ -1,5 +1,5 @@
 +++
-title = "keynote speakers"
+title = "Keynote Speakers"
 +++
 
 <body style="background-color:#011E44">
@@ -49,7 +49,7 @@ title = "keynote speakers"
         <p>
         TITLE OF TALK: TBA
         </p>
-    <h4><a href="https://blab.lin.ufl.edu/directory/eleonora-rossi-phd/">Dr. Eleanora Rossi (University of Florida)</a></h4><br>
+    <h4><a href="https://blab.lin.ufl.edu/directory/eleonora-rossi-phd/">Dr. Eleonora Rossi (University of Florida)</a></h4><br>
         <div class = "keynoteImages">
             {{< figure src="../keynoteimages/rossi.png" width="180" height="180" >}}
         </div>

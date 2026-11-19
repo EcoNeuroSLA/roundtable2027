@@ -1,5 +1,5 @@
 +++
-title = "travel"
+title = "Travel"
 +++
 
 <body style="background-color:#011E44">

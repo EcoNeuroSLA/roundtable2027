@@ -1,5 +1,5 @@
 +++
-title = "call"
+title = "Call for Papers"
 +++
 
 <body style="background-color:#011E44">

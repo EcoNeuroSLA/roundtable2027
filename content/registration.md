@@ -1,5 +1,5 @@
 +++
-title = "registration"
+title = "Registration"
 +++
 
 <body style="background-color:#011E44">

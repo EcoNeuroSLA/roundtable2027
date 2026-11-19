@@ -9,22 +9,15 @@ googleAnalytics = ""  # add your tracking id
 [params]
   subtitle = "2027 *Language Learning Cognitive Neuroscience Series* Roundtable Conference"
   author = "roundtable2027" #CHANGE AUTHOR
-  description = "roundtable2027"
+  description = "Language Learning Cognitive Neuroscience Series Roundtable Conference entitled 'Ecological validity in the cognitive neuroscience of language learning and processing: Promising approaches and future directions' "
   favicon = "" #CHANGE ICON
   logo = ""  # url or path to a logo to put in the header
-  [params.footer]
-    text = "made with © SOMEONE"
-    url = "https://EcoNeuroSLA.github.io/roundtable2027/" #CHANGE URL
   [params.style]
-    fontFamily = "verdana"
-    pageWidth = "1400px"
+    fontFamily = "Atkinson Hyperlegible"
+    pageWidth = "1200px"
     avatarSize = "185px"
     colorBlack = "white"
     colorRed = "#afdcff"
-  [[params.socialIcons]]
-    icon = "fas fa-envelope"
-    title = "Email"
-    url = "" #CHANGE EMAIL
 
 [permalinks]
   "/" = "/:filename"

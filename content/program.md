@@ -1,5 +1,5 @@
 +++
-title = "program"
+title = "Program"
 +++
 
 <body style="background-color:#011E44">
